@@ -27,6 +27,8 @@ else {
     }
 };
 
+//adding code to change color depending on the time
+
 for (var key in schedule) {
     console.log(key, schedule[key])
 
